@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069719852715",
+    "project_id": "throosb1",
+    "storage_bucket": "throosb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069719852715:android:17f37fc53ac51bbeb7c9ee",
+        "android_client_info": {
+          "package_name": "com.example.throosb1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkn_HntSH5trdtnuRqUml4hgEp59vUftw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
